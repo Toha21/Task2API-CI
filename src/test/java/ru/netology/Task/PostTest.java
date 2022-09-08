@@ -23,7 +23,7 @@ public class PostTest {
                 .post("/post")
                 .then()
                 .statusCode(200)
-                .body("data",equalTo("name Anton1"))
+                .body("data",equalTo("name Anton"))
          ;
     }
 }
