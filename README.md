@@ -1,0 +1,1 @@
+**[![Build status](https://ci.appveyor.com/api/projects/status/nq6l7rjtybknk5ih?svg=true)](https://ci.appveyor.com/project/Toha21/task2api-ci)**
